@@ -1,0 +1,44 @@
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fillViewport="true"
+    tools:context="com.dawnsoft.dawn.nepalyoga.dashboardfrags.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/exerciseFragment">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="160dp">
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager_exercise_frag"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tablayout_exercise_frag"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                app:tabGravity="center"
+                app:tabBackground="@drawable/tab_selector"
+                app:tabIndicatorHeight="0dp"/>
+        </RelativeLayout>
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clipToPadding="false"
+            android:scrollbars="vertical" />
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

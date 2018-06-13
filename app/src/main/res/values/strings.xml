@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Nepal Yoga</string>
+
+    <!-- for nav drawer -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- yoga card description -->
+    <string name="ycd_overview_desc"> One of the most well-known yoga poses for core strength, Boat Pose — Navasana (nah-VAHS-uh-nuh) — tones the abdominal muscles while strengthening the low back. The name comes from the Sanskrit words "nava" (meaning "boat") and "asana" (meaning "pose"). There are two variations: Half Boat Pose — Ardha Navasana (ARD-uh nah-VAHS-uh-nuh) — and Full Boat Pose — Paripurna Navasana (pahr-ee-POOR-nah nah-VAHS-uh-nuh) . The word "ardha" means "half," and it refers to the bent-knee variation of the pose. "Paripurna" means "full" or "complete," and it refers to the deepest expression of the pose, with the legs and arms fully extended and lifting, creating the "V" shape of a small boat.</string>
+    <string name="ycd_moveintoasana">Lay on your back with your feet together and fingers interlocked over your thighs. Inhale, whilst lifting your chest and feet off the mat simultaneously. Stretching your arms, parallel to the thighs pointing towards your feet. Feel contraction of the core. Maintain normal breathing.</string>
+    <string name="ycd_picturestep">Begin seated with your knees bent and feet flat on the floor, hands resting beside your hips. Draw your awareness inward and focus on your breath. Allow your inhalations and exhalations to be smooth, calm, and even.
+Keeping your spine straight, lean back slightly and lift your feet, bringing your shins parallel to the floor.
+Draw in your low back, lift your chest, and lengthen the front of your torso. Then, extend your arms forward, in line with your shoulders with your palms facing each other.
+Balance on your sit bones, keeping your spine straight. Take care not to let your lower back sag or chest collapse.
+Lengthen the front of your torso from your pubic bone to the top of your sternum. The lower belly (the area below your navel) should be firm and somewhat flat, but not hard or thick.
+With an exhalation, straighten your legs to a 45-degree angle from the ground, bringing your body into a "V" shape.
+Keep your breath easy, steady, and smooth. Focus your awareness within. Soften your eyes and your face. Gaze at your toes.
+Spread your shoulder blades wide and reach out through your fingers, actively engaging your hands.
+Stay in the pose for five breaths, gradually working up to one minute. To release the pose, exhale as you lower your legs and hands to the floor.
+</string>
+    <string name="ycd_benefits">
+        Strengthens core, back, thighs, shoulders, upper back.
+        Supplies blood to abdominal organs.
+    </string>
+    <string name="ycd_precautions">
+        If you suffer from spinal disorders, active migraines, low blood pressure.
+    </string>
+</resources>

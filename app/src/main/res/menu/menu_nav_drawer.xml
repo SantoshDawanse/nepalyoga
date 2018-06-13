@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_ytt_courses"
+        android:title="YTT Courses"/>
+    <item android:id="@+id/menu_poses"
+        android:title="Poses"/>
+    <group android:id="@+id/menu_yoga"
+        android:title="Yoga">
+
+        <item android:id="@+id/menu_satkarma"
+            android:title="Satkarma"/>
+        <item android:id="@+id/menu_asan"
+            android:title="Asan"/>
+        <item android:id="@+id/menu_pranayam"
+            android:title="Pranayam"/>
+        <item android:id="@+id/menu_meditation"
+            android:title="Meditation"/>
+        <item android:id="@+id/menu_darshan"
+            android:title="Darshan"/>
+    </group>
+
+
+
+</menu>
